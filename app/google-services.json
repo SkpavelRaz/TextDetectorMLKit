@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "118267087546",
+    "project_id": "textdetectorbymlkit",
+    "storage_bucket": "textdetectorbymlkit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118267087546:android:92dfbc476c5f9291355083",
+        "android_client_info": {
+          "package_name": "com.example.textdetectorbymlkit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKBpMkhe1E2pS02jJkEyRh0CwHMLKVIw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
